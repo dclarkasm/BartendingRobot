@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IOIOLibPC-5.05">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BartendingRobot/libs/IOIOLibPC-5.05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

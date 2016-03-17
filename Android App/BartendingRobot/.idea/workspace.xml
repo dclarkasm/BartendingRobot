@@ -1,563 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="63abf0b8-783c-4df2-a229-a62bb1b40266" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/androidTest/debug/com/example/bartendingrobot/test/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AABDatabaseManager$CustomSQLiteOpenHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AABDatabaseManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AccountActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AccountActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AccountActivity$myOnGItemSelectedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AccountActivity$myOnSItemSelectedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AccountActivity$myOnWItemSelectedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/AccountActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/BarTabActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/BarTabActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/BarTabActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection$Looper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/DrinkSelection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/IOIOActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/ManualActivity$Looper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/ManualActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/StatsActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/StatsActivity$APRIndexFormat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/classes/debug/com/example/bartendingrobot/StatsActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/accountbuttonicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/backgroundbeerbottlevertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/mytabbuttonicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/refreshbuttonicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-hdpi-v4/white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-mdpi-v4/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xhdpi-v4/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/resources-debug.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/IOIOLibCore-5.05.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/IOIOLibPC-5.05.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/androidplot-core-0.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/ioiolibaccessory.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/ioiolibandroid.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/ioiolibandroiddevice.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/libs/ioiolibbt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/accountbuttonicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/backgroundbeerbottlevertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/mytabbuttonicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/refreshbuttonicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-hdpi/white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-mdpi/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xhdpi/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/accountbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/button_bkgnd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/cubalibre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/downbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/homeposbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/leftbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/manualbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/martini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/mytabbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/refreshbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/rightbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/screwdriver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/shirly_temple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/statsbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/drawable-xxhdpi/upbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/BartendingRobot-BartendingRobot.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/generated/source/buildConfig/androidTest/debug/com/example/bartendingrobot/test/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/generated/source/buildConfig/debug/com/example/bartendingrobot/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/generated/source/r/debug/com/example/bartendingrobot/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/activity_account.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/activity_bar_tab.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/activity_drink_selection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/activity_manual.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/activity_stats.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/line_point_formatter_with_plf1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/layout/line_point_formatter_with_plf2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/menu/account.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/menu/bar_tab.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/menu/drink_selection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/menu/manual.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/menu/stats.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/values-v14/values-v14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AABDatabaseManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AccountActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/BarTabActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/DrinkSelection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/IOIOActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/ManualActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/StatsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/activity_account.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/activity_bar_tab.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/activity_drink_selection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/activity_manual.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/activity_stats.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/line_point_formatter_with_plf1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/layout/line_point_formatter_with_plf2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/menu/account.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/menu/bar_tab.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/menu/drink_selection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/menu/manual.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/menu/stats.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot/src/main/res/values/styles.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/BartendingRobot.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accountbtn-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/background-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BartendingRobot (Troy Kennen's conflicted copy 2014-04-27).apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/BartendingRobot.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes (Troy Kennen's conflicted copy 2014-04-27).dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AABDatabaseManager$CustomSQLiteOpenHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AABDatabaseManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AccountActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AccountActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AccountActivity$myOnGItemSelectedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AccountActivity$myOnSItemSelectedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AccountActivity$myOnWItemSelectedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/AccountActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/BarTabActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/BarTabActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/BarTabActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection$Looper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/DrinkSelection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/IOIOActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/ManualActivity$Looper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/ManualActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/StatsActivity$APRIndexFormat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/bartendingrobot/StatsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-3057c4300a0f31d6666451f39d61af77.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-b150ed63146e177719648dcf47280bd0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-bb755f163d04d399763823e133761707.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-e9ad00fc3de1e284d425f99916e2a08f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/androidplot-core-0.6.0-255ed62666a61aa13b0eee5421b7fa82.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolib-063c41f454a8b0ca64a19844f9d290fe.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolib-6018c9ea6a4d03eada050dda712dbb93.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibaccessory-0674a85bd7c33ed70b0da78624396a45.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibaccessory-2fb10c40b453a2f0fd1ec403da1a70eb.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibaccessory-a9b0509401e2d18317fae1a518c7ae03.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibandroid-40e33a5b628d807d2e36723e139e4b48.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibandroid-bcf6bafd6ef496e499d6550f1e517953.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibandroid-d5ae370d19d5a301c1b8a3418b0acdd0 (Troy Kennen's conflicted copy 2014-04-27).jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibandroid-d5ae370d19d5a301c1b8a3418b0acdd0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibandroid-edbbc4c9f27e7bfcd6356ee39915c24a.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-27ad18a5f5909c674a2f975c491e76ac.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-3827dc910875eb2926a9f72a85be662d (Troy Kennen's conflicted copy 2014-04-27).jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-3827dc910875eb2926a9f72a85be662d.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-b20b5833a33158b26d56e88350a8a557.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-b82b1954b5c1a05785befe9e0275d315.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-d04235d33a1a7170404b411a04a4d98f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/ioiolibbt-faba16dd89d6224992a463891b7b0fef.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jarlist.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/accountbuttonicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/backgroundbeerbottlevertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/mytabbuttonicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/refreshbuttonicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/resources (Troy Kennen's conflicted copy 2014-04-27).ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/button_bkgnd-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cubalibre-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/downbutton-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/example/bartendingrobot/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/example/bartendingrobot/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homeposbutton-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ic_launcher-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/leftbutton-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/IOIOLibCore-5.05.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/IOIOLibPC-5.05.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/androidplot-core-0.6.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/ioiolibaccessory.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/ioiolibandroid.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/ioiolibandroiddevice.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/ioiolibbt.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/manualbutton-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/martini-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mytabbtn-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/refreshbtn-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/accountbuttonicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/backgroundbeerbottlevertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/mytabbuttonicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/refreshbuttonicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/accountbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/button_bkgnd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/cubalibre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/downbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/homeposbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/leftbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/manualbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/martini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/mytabbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/refreshbtn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/rightbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/screwdriver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/shirly_temple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/statsbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/upbutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_account.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_bar_tab.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_drink_selection.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_manual.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_stats.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/line_point_formatter_with_plf1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/line_point_formatter_with_plf2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/menu/account.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/menu/bar_tab.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/menu/drink_selection.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/menu/manual.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/menu/stats.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-sw600dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-sw720dp-land/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-v11/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-v14/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rightbutton-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/screwdriver-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shirly_temple-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/AABDatabaseManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/AccountActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/BarTabActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/DrinkSelection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/IOIOActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/ManualActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bartendingrobot/StatsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/statsbutton-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/upbutton-web.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="e0f5d345-f314-47ce-abd8-97731e8c62e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/IOIOLibCore_5_05.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/IOIOLibPC_5_05.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/androidplot_core_0_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ioiolibaccessory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ioiolibandroid.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ioiolibandroiddevice.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ioiolibbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BartendingRobot.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import-summary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BartendingRobot.iws" />
@@ -578,78 +48,12 @@
     <favorites_list name="BartendingRobot" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AABDatabaseManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AABDatabaseManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AccountActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="670" column="50" selection-start-line="670" selection-start-column="29" selection-end-line="670" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BarTabActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/BarTabActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="130" column="50" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrinkSelection.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/DrinkSelection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44942528">
-              <caret line="57" column="54" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IOIOActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/IOIOActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManualActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/ManualActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StatsActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/StatsActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -1841,11 +1245,6 @@
         </entry>
       </map>
     </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="4374703583415" />
-      </map>
-    </option>
     <option name="projectBuildClasspath">
       <map>
         <entry key="$PROJECT_DIR$">
@@ -2113,24 +1512,13 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/BartendingRobot/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AABDatabaseManager.java" />
-        <option value="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AccountActivity.java" />
-        <option value="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/BarTabActivity.java" />
-        <option value="$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/DrinkSelection.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -2140,8 +1528,11 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2156,47 +1547,29 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView">
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="BartendingRobot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="BartendingRobot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BartendingRobot-BartendingRobot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="BartendingRobot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BartendingRobot-BartendingRobot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartendingrobot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2206,7 +1579,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="device.picker.selection" value="09319953" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Android Application.BartendingRobot-BartendingRobot">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2216,7 +1589,7 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
@@ -2251,7 +1624,7 @@
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
@@ -2302,11 +1675,11 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+        <value defaultName="moduleWithDependencies" />
       </option>
       <envs />
       <patterns />
@@ -2378,13 +1751,13 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+        <value defaultName="moduleWithDependencies" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
@@ -2458,17 +1831,12 @@
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Android Application.BartendingRobot-BartendingRobot" />
     </list>
-    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-    </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -2477,10 +1845,10 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63abf0b8-783c-4df2-a229-a62bb1b40266" name="Default" comment="" />
-      <created>1458234527679</created>
+      <changelist id="e0f5d345-f314-47ce-abd8-97731e8c62e0" name="Default" comment="" />
+      <created>1409431676026</created>
       <option name="number" value="Default" />
-      <updated>1458234527679</updated>
+      <updated>1409431676026</updated>
     </task>
     <servers />
   </component>
@@ -2488,34 +1856,46 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2531983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2525,55 +1905,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.062043797">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AccountActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="670" column="50" selection-start-line="670" selection-start-column="29" selection-end-line="670" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/BarTabActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="130" column="50" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/IOIOActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/ManualActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/StatsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2581,18 +1913,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/AABDatabaseManager.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BartendingRobot/src/main/java/com/example/bartendingrobot/DrinkSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44942528">
-          <caret line="57" column="54" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
