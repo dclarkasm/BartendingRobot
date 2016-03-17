@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BartendingRobot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_account">AccountActivity</string>
+
+    <string-array name="StateArray">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="GenderArray">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="WeightArray">
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>170</item>
+        <item>180</item>
+        <item>190</item>
+        <item>200</item>
+        <item>210</item>
+        <item>220</item>
+        <item>230</item>
+        <item>240</item>
+        <item>250</item>
+        <item>260</item>
+        <item>270</item>
+        <item>280</item>
+        <item>290</item>
+        <item>300</item>
+        <item>310</item>
+        <item>320</item>
+        <item>330</item>
+        <item>340</item>
+        <item>350</item>
+        <item>360</item>
+        <item>370</item>
+        <item>380</item>
+        <item>390</item>
+        <item>400</item>
+        <item>410</item>
+        <item>420</item>
+        <item>430</item>
+        <item>440</item>
+        <item>450</item>
+    </string-array>
+
+    <string name="title_activity_bar_tab">BarTabActivity</string>
+    <string name="th_index">Drink #</string>
+    <string name="th_drink_name">Drink</string>
+    <string name="th_acvol">ACD</string>
+    <string name="th_cost">Cost</string>
+    <string name="th_ordtime">Order Time</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="title_activity_manual">ManualActivity</string>
+
+</resources>
