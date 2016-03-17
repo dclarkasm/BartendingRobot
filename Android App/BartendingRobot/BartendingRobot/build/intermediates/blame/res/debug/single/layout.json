@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\line_point_formatter_with_plf1.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\line_point_formatter_with_plf1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stats.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\activity_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drink_selection.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\activity_drink_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\line_point_formatter_with_plf2.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\line_point_formatter_with_plf2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bar_tab.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\layout\\activity_bar_tab.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\menu\\bar_tab.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\menu\\bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\menu\\manual.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\menu\\manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\menu\\drink_selection.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\menu\\drink_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\menu\\account.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\menu\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\menu\\stats.xml",
+        "source": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\menu\\stats.xml"
+    }
+]

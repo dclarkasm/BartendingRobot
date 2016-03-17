@@ -1,0 +1,511 @@
+[
+    {
+        "outputFile": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endLine": 63,
+                        "endColumn": 19,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endLine": 59,
+                        "endColumn": 19,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endLine": 96,
+                    "endColumn": 19,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 1716,
+                        "endLine": 102,
+                        "endColumn": 19,
+                        "endOffset": 2731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 57,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endColumn": 55,
+                    "endOffset": 2515
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 2520,
+                    "endColumn": 53,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 53,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2574,
+                    "endColumn": 58,
+                    "endOffset": 2628
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 58,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 2633,
+                    "endColumn": 52,
+                    "endOffset": 2681
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 52,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 2686,
+                    "endColumn": 58,
+                    "endOffset": 2740
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 58,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 2745,
+                    "endColumn": 52,
+                    "endOffset": 2793
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 52,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 2798,
+                    "endColumn": 57,
+                    "endOffset": 2851
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 425,
+                        "endColumn": 57,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 2856,
+                    "endColumn": 46,
+                    "endOffset": 2898
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 46,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 2903,
+                    "endColumn": 52,
+                    "endOffset": 2951
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 2956,
+                    "endColumn": 52,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 52,
+                    "endOffset": 3057
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 52,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 3062,
+                    "endColumn": 40,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 2901,
+                        "endColumn": 40,
+                        "endOffset": 2937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endColumn": 40,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 2943,
+                        "endColumn": 40,
+                        "endOffset": 2979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 47,
+                    "endOffset": 3187
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 2852,
+                        "endColumn": 47,
+                        "endOffset": 2895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 3192,
+                    "endColumn": 44,
+                    "endOffset": 3232
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 2806,
+                        "endColumn": 44,
+                        "endOffset": 2846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3237,
+                    "endColumn": 49,
+                    "endOffset": 3282
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 2985,
+                        "endColumn": 49,
+                        "endOffset": 3030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3287,
+                    "endColumn": 66,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 66,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 65,
+                    "endOffset": 3415
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 2739,
+                        "endColumn": 65,
+                        "endOffset": 2800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3420,
+                    "endColumn": 64,
+                    "endOffset": 3480
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 3100,
+                        "endColumn": 64,
+                        "endOffset": 3160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3485,
+                    "endColumn": 62,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 3036,
+                        "endColumn": 62,
+                        "endOffset": 3094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 3834
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 3839,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 3994
+                },
+                "from": {
+                    "file": "C:\\Users\\Devon\\Documents\\GitHub\\BartendingRobot\\Android App\\BartendingRobot\\BartendingRobot\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

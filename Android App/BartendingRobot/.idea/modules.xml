@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BartendingRobot.iml" filepath="$PROJECT_DIR$/.idea/BartendingRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BartendingRobot.iml" filepath="$PROJECT_DIR$/BartendingRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BartendingRobot/BartendingRobot-BartendingRobot.iml" filepath="$PROJECT_DIR$/BartendingRobot/BartendingRobot-BartendingRobot.iml" />
     </modules>
   </component>
 </project>
-
